@@ -46,7 +46,7 @@ client.on('message', msg => {
 };
 });
  
-const developers = ["462006869834203159"]//xR1 Codes
+const developers = ["335484868479811584"]//xR1 Codes
 client.on('message', message => {//xR1 Codes
     var argresult = message.content.split(` `).slice(1).join(' ');//xR1 Codes
       if (!developers.includes(message.author.id)) return;
@@ -154,24 +154,24 @@ hastebin(`${array.slice(0, 30).join('\n')}`, 'txt').then(l => {
  
 client.on("ready", async  => {
 setInterval(function(){
-client.channels.find('id', '528247290385661952').setName("W");
-client.channels.find('id', '528247290385661952').setName("We");
-client.channels.find('id', '528247290385661952').setName("Wel");
-client.channels.find('id', '528247290385661952').setName("Welc");
-client.channels.find('id', '528247290385661952').setName("Welco");
-client.channels.find('id', '528247290385661952').setName("Welcom");
-client.channels.find('id', '528247290385661952').setName("Welcome");
-client.channels.find('id', '528247290385661952').setName("Welcome T");
-client.channels.find('id', '528247290385661952').setName("Welcome To");
-client.channels.find('id', '528247290385661952').setName("Welcome To T");
-client.channels.find('id', '528247290385661952').setName("Welcome To ox");
-client.channels.find('id', '528247290385661952').setName("Welcome To Tox");
-client.channels.find('id', '528247290385661952').setName("Welcome To Toxic");
-client.channels.find('id', '528247290385661952').setName("Welcome To Toxic C");
-client.channels.find('id', '528247290385661952').setName("Welcome To Toxic Co");
-client.channels.find('id', '528247290385661952').setName("Welcome To Toxic Cod");
-client.channels.find('id', '528247290385661952').setName("Welcome To Toxic Code");
-client.channels.find('id', '528247290385661952').setName("Welcome To xR1 Codes");
+client.channels.find('id', '538496185279840279').setName("W");
+client.channels.find('id', '538496185279840279').setName("We");
+client.channels.find('id', '538496185279840279').setName("Wel");
+client.channels.find('id', '538496185279840279').setName("Welc");
+client.channels.find('id', '538496185279840279').setName("Welco");
+client.channels.find('id', '538496185279840279').setName("Welcom");
+client.channels.find('id', '538496185279840279').setName("Welcome");
+client.channels.find('id', '538496185279840279').setName("Welcome T");
+client.channels.find('id', '538496185279840279').setName("Welcome To");
+client.channels.find('id', '538496185279840279').setName("Welcome To T");
+client.channels.find('id', '538496185279840279').setName("Welcome To ox");
+client.channels.find('id', '538496185279840279').setName("Welcome To Tox");
+client.channels.find('id', '538496185279840279').setName("Welcome To Toxic");
+client.channels.find('id', '538496185279840279').setName("Welcome To Toxic C");
+client.channels.find('id', '538496185279840279').setName("Welcome To Toxic Co");
+client.channels.find('id', '538496185279840279').setName("Welcome To Toxic Cod");
+client.channels.find('id', '538496185279840279').setName("Welcome To Toxic Code");
+client.channels.find('id', '538496185279840279').setName("Welcome To xR1 Codes");
   }, 4000);
 });
  
